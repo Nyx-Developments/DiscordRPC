@@ -1,0 +1,16 @@
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\CustomDiscordRPC.exe.config
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\CustomDiscordRPC.exe
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\CustomDiscordRPC.pdb
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\DiscordRPC.dll
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\DiscordRPC.xml
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.csprojAssemblyReference.cache
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.Main.resources
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.Properties.Resources.resources
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.csproj.GenerateResource.cache
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.csproj.CopyComplete
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.exe
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.pdb
+C:\Users\tretr\source\repos\CustomDiscordRPC\CustomDiscordRPC\obj\Debug\CustomDiscordRPC.WebBrowser.resources
