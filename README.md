@@ -2,7 +2,7 @@
 
 ## About
 
-This is an app that help you emulate your Discord Rich Presence to anything you want using [this](https://github.com/Nyx-Developments/DiscordRPC)
+This is an app that help you emulate your Discord Rich Presence to anything you want using [this](https://github.com/Lachee/discord-rpc-csharp)
 
 ## Requirements
 
