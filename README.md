@@ -11,8 +11,6 @@ For Discord RPC Emulator .NET Framework:
 
 For Discord RPC Emulator .NET Core:
 -  [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019 x86 package](https://aka.ms/vs/16/release/vc_redist.x86.exe) (Windows only)
--  .NET Core SDK 3.1 for Windows build (macOS might need if the compiled build isn't working since I don't have a Mac to test)
--  NET Core Notice: File name: AquaDRPCE.(executable format, for linux its empty and on Linux do chmod +x AquaDRPCE before use)
 
 ## Installation
 
